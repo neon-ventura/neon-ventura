@@ -1,16 +1,33 @@
-## Hi there 👋
+<!-- Banner topo -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=200&section=header&text=Bem-vindo%20ao%20meu%20perfil!&fontColor=ffffff&fontSize=30&animation=twinkling"/>
 
-<!--
-**neon-ventura/neon-ventura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá! Eu sou [Seu Nome Aqui] 
 
-Here are some ideas to get you started:
+✨ Desenvolvedor apaixonado por tecnologia e inovação.  
+🚀 Sempre em busca de aprender novas habilidades e criar soluções incríveis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Contatos
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+
+## 🛠️ Tecnologias & Ferramentas
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+## 📈 Estatísticas do GitHub
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+## 📝 Sobre mim
+- 🌱 Atualmente aprendendo: *[Sua tecnologia atual]*
+- 🤝 Procurando colaborar em projetos de: *[Área de interesse]*
+- 💬 Pergunte-me sobre: *[Tecnologias ou tópicos que domina]*
+
+<!-- Rodapé -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer"/>
