@@ -1,7 +1,7 @@
 <!-- Banner topo -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=200&section=header&text=Bem-vindo%20ao%20meu%20perfil!&fontColor=ffffff&fontSize=30&animation=twinkling"/>
 
-# 👋 Olá! Eu sou [Seu Nome Aqui] 
+# 👋 Olá! Eu sou Neon Ventura 
 
 ✨ Desenvolvedor apaixonado por tecnologia e inovação.  
 🚀 Sempre em busca de aprender novas habilidades e criar soluções incríveis.
