@@ -24,7 +24,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ## 📈 GitHub Stats
-<div align="center">
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=neon-ventura&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neon-ventura&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
