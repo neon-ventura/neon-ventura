@@ -33,8 +33,7 @@
 - 🌱 Currently learning: *Django Rest Framework*
 - 🤝 Looking to collaborate on projects related to: *Automation or APIs*
 
-## 🎥 Here's a fun GIF that shows some of my work!
-![My work demo GIF](https://media.giphy.com/media/l2Jhu7f5FzchNCScA/giphy.gif)
+![My work demo GIF]([https://media.giphy.com/media/l2Jhu7f5FzchNCScA/giphy.gif](https://media.giphy.com/media/wcgn5fVDjvR7pdvz4C/giphy.gif?cid=ecf05e47bdssm2jcru8n0p4p7054njap0bcd16oif2lkx1l3&ep=v1_gifs_search&rid=giphy.gif&ct=g))
 
 <!-- Rodapé -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8A7469&height=120&section=footer&font=Poppins"/>
