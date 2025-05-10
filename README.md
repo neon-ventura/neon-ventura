@@ -6,9 +6,6 @@
 ✨ Developer passionate about technology and innovation.  
 🚀 Always eager to learn new skills and build amazing solutions.
 
-## 🔗 Contacts
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neon-ventura-38b49524b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neonventura@gmail.com)
 
 ## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -32,6 +29,10 @@
 ## 📝 About Me
 - 🌱 Currently learning: *Django Rest Framework*
 - 🤝 Looking to collaborate on projects related to: *Automation or APIs*
+
+
+
+
 
 ![My work demo GIF](https://media.giphy.com/media/wcgn5fVDjvR7pdvz4C/giphy.gif?cid=ecf05e47bdssm2jcru8n0p4p7054njap0bcd16oif2lkx1l3&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
