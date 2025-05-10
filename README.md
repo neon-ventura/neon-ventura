@@ -1,5 +1,5 @@
 <!-- Banner topo -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=200&section=header&text=Welcome%20to%20my%20profile!&fontColor=ffffff&fontSize=30&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A7469&height=200&section=header&text=Welcome%20to%20my%20profile!&fontColor=ffffff&fontSize=30&animation=twinkling"/>
 
 # 👋 Hi! I'm Neon Ventura 
 
@@ -34,4 +34,4 @@
 - 🤝 Looking to collaborate on projects related to: *Automation or APIs*
 
 <!-- Rodapé -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A7469&height=120&section=footer"/>
